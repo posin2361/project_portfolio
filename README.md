@@ -1,4 +1,4 @@
-# project_portfolio
+# project_portfolio 요약
 
 - 개요:지금까지 활동 한 내용 및 진행 한 프로젝트에 대한 보여줄 수 있는 웹 페이지
 - 설계 해상도: 1600x900
